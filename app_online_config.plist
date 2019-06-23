@@ -7,10 +7,10 @@
 		<key>BackgroundFetchInterval</key>
 		<integer>30</integer>
 		<key>MahjongEmojisVersion</key>
-		<string>1.0</string>
+		<string>2.0</string>
 	</dict>
 	<key>ConfigVersion</key>
-	<string>2.0</string>
+	<string>3.0</string>
 	<key>CompatibleAppVersion</key>
 	<string>2.0</string>
 </dict>
