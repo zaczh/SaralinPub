@@ -4,5 +4,7 @@
 <dict>
 	<key>ConfigVersion</key>
 	<string>1.0</string>
+	<key>CompatibleAppVersion</key>
+	<string>2.0</string>
 </dict>
 </plist>
