@@ -7,7 +7,7 @@
 		<key>BackgroundFetchInterval</key>
 		<integer>30</integer>
 		<key>MahjongEmojisVersion</key>
-		<string>2.0</string>
+		<string>1.0</string>
 		<key>MahjongEmojisDownloadUrl</key>
 		<string>https://github.com/zaczh/saralin/blob/master/Mahjong.zip?raw=true</string>
 	</dict>
