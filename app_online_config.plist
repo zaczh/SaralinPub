@@ -8,6 +8,8 @@
 		<integer>30</integer>
 		<key>MahjongEmojisVersion</key>
 		<string>2.0</string>
+		<key>MahjongEmojisDownloadUrl</key>
+		<string>https://github.com/zaczh/saralin/blob/master/Mahjong.zip?raw=true</string>
 	</dict>
 	<key>ConfigVersion</key>
 	<string>3.0</string>
