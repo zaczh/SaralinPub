@@ -14,7 +14,7 @@
 		<key>ForumInfo</key>
 		<dict>
 			<key>Version</key>
-			<string>1.1</string>
+			<string>1.2</string>
 			<key>DownloadUrl</key>
 			<string>https://raw.githubusercontent.com/zaczh/SaralinPub/master/forum_info.plist</string>
 		</dict>
