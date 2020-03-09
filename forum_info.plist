@@ -139,6 +139,71 @@
 			<string>爆</string>
 		</dict>
 		<dict>
+			<key>info</key>
+			<string>虚拟主播VTB</string>
+			<key>color</key>
+			<string>#CF417E</string>
+			<key>types</key>
+			<array>
+				<dict>
+					<key>typename</key>
+					<string>综合</string>
+					<key>typeid</key>
+					<string>367</string>
+				</dict>
+				<dict>
+					<key>typename</key>
+					<string>百科</string>
+					<key>typeid</key>
+					<string>368</string>
+				</dict>
+				<dict>
+					<key>typename</key>
+					<string>推荐</string>
+					<key>typeid</key>
+					<string>369</string>
+				</dict>
+				<dict>
+					<key>typename</key>
+					<string>新闻</string>
+					<key>typeid</key>
+					<string>370</string>
+				</dict>
+				<dict>
+					<key>typename</key>
+					<string>八卦</string>
+					<key>typeid</key>
+					<string>371</string>
+				</dict>
+				<dict>
+					<key>typename</key>
+					<string>求战</string>
+					<key>typeid</key>
+					<string>372</string>
+				</dict>
+				<dict>
+					<key>typename</key>
+					<string>活动</string>
+					<key>typeid</key>
+					<string>373</string>
+				</dict>
+				<dict>
+					<key>typename</key>
+					<string>其他</string>
+					<key>typeid</key>
+					<string>374</string>
+				</dict>
+			</array>
+			<key>sublist</key>
+			<array/>
+			<key>fid</key>
+			<string>151</string>
+			<key>name</key>
+			<string>VTB</string>
+			<key>initial</key>
+			<string>V</string>
+		</dict>
+		<dict>
 			<key>fid</key>
 			<string>4</string>
 			<key>types</key>
