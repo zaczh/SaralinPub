@@ -92,6 +92,75 @@
 			<string>刀</string>
 		</dict>
 		<dict>
+			<key>color</key>
+			<string>#C34756</string>
+			<key>info</key>
+			<string>欧美动漫</string>
+			<key>fid</key>
+			<string>144</string>
+			<key>types</key>
+			<array>
+				<dict>
+					<key>typename</key>
+					<string>新闻</string>
+					<key>typeid</key>
+					<string>311</string>
+				</dict>
+				<dict>
+					<key>typename</key>
+					<string>讨论</string>
+					<key>typeid</key>
+					<string>310</string>
+				</dict>
+				<dict>
+					<key>typename</key>
+					<string>漫画</string>
+					<key>typeid</key>
+					<string>294</string>
+				</dict>
+				<dict>
+					<key>typename</key>
+					<string>动画</string>
+					<key>typeid</key>
+					<string>295</string>
+				</dict>
+				<dict>
+					<key>typename</key>
+					<string>喂屎</string>
+					<key>typeid</key>
+					<string>296</string>
+				</dict>
+				<dict>
+					<key>typename</key>
+					<string>漫改</string>
+					<key>typeid</key>
+					<string>297</string>
+				</dict>
+				<dict>
+					<key>typename</key>
+					<string>求助</string>
+					<key>typeid</key>
+					<string>298</string>
+				</dict>
+				<dict>
+					<key>typename</key>
+					<string>资源</string>
+					<key>typeid</key>
+					<string>299</string>
+				</dict>
+				<dict>
+					<key>typename</key>
+					<string>求战</string>
+					<key>typeid</key>
+					<string>300</string>
+				</dict>
+			</array>
+			<key>name</key>
+			<string>欧美动漫</string>
+			<key>sublist</key>
+			<array/>
+		</dict>
+		<dict>
 			<key>info</key>
 			<string>自曝区</string>
 			<key>color</key>
@@ -1911,6 +1980,6 @@
 		</dict>
 	</array>
 	<key>version</key>
-	<string>1.2</string>
+	<string>1.3</string>
 </dict>
 </plist>
