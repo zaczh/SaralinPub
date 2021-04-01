@@ -1,2 +1,2 @@
 # saralin
-The configure repository for the [Saralin](https://github.com/zaczh/Saralin) app.
+The configuration repository for the [Saralin](https://github.com/zaczh/Saralin) app.
