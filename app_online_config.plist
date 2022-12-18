@@ -23,13 +23,13 @@
             <key>ZipPath</key>
             <string>~/Documents/Data</string>
             <key>Version</key>
-            <string>2.0</string>
+            <string>3.0</string>
             <key>DownloadUrl</key>
             <string>https://raw.githubusercontent.com/zaczh/SaralinPub/master/Mahjong.zip</string>
         </dict>
     </dict>
     <key>ConfigVersion</key>
-    <string>1.5</string>
+    <string>1.6</string>
     <key>MinimumCompatibleAppVersion</key>
     <string>2.0</string>
     <key>MaximumCompatibleAppVersion</key>
